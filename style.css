@@ -8,32 +8,75 @@ body {
 }
 
 .navbar {
-  height: 150px;
-  width: 80%;
+  position: relative;
+  padding: 5px;
+  height: 55px;
+  width: 100%;
   display: flex;
   flex-direction: row;
+  line-height: 50px;
 }
 
 #bestfood {
   margin: 0px;
   position: no
+  color: #d1d6d6;
+  font-size: 12px;
 }
 
-#leftofhead {
+#leftofheader {
   display: inline;
   padding-bottom: 0px;
+  width: 70%;
 }
 
 #deliciouswords {
+  line-height: 0px;
   font-family: 'Yellowtail', cursive;
+}
 
+#lines {
+  margin: 0px;
+  height: 15px;
+  color: #d1d6d6;
 }
 
 #logo {
+  margin-right: 8px;
+  display: inline-block;
   float: left;
-  padding-top: 10px
+  padding-top: 5px
 }
 
 #rightofheader {
-  position: relative;
+}
+
+#abovemainpicleft {
+  width: 90%;
+}
+#chocpizza {
+  height: 15px;
+}
+
+#dateposted {
+  font-size: 10px;
+}
+#abovemainpicright {
+  display: inline;
+  width: 50px;
+  float: right;
+  padding-bottom: 5px;
+}
+#printimage {
+  display: inline;
+  float: left;
+}
+#print {
+  font-size: 10px;
+}
+#mainphoto {}
+
+#yellowlist {
+  background-image: url('/Users/carloscadena/CodeFellows/201/chocolate-pizza/img/list-bg.png');
+  margin-bottom:
 }
