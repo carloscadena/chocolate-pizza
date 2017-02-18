@@ -1,0 +1,39 @@
+body {
+
+}
+
+#page-wrap {
+     width: 800px;
+     margin: 0 auto;
+}
+
+.navbar {
+  height: 150px;
+  width: 80%;
+  display: flex;
+  flex-direction: row;
+}
+
+#bestfood {
+  margin: 0px;
+  position: no
+}
+
+#leftofhead {
+  display: inline;
+  padding-bottom: 0px;
+}
+
+#deliciouswords {
+  font-family: 'Yellowtail', cursive;
+
+}
+
+#logo {
+  float: left;
+  padding-top: 10px
+}
+
+#rightofheader {
+  position: relative;
+}
